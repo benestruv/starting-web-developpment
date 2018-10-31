@@ -21,6 +21,10 @@ body {
     height: 380px;
 }
 
+.entete {
+    font-size: 0.9em
+}
+
 h1 {color: #dd5555;
     font-size: 1.5em;
     font-weight: bolder;}
